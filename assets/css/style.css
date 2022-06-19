@@ -9060,7 +9060,7 @@ p {
 /*  22. SIGN CSS START
 /*----------------------------------------*/
 .sign__wrapper {
-  padding: 50px 70px;
+  padding: 30px;
   padding-bottom: 45px;
   margin: 0 30px;
   -webkit-border-radius: 10px;
@@ -9412,7 +9412,7 @@ p {
 .sign__social::after {
   position: absolute;
   content: "";
-  left: -55%;
+  left: -40%;
   top: 45%;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
@@ -9428,7 +9428,7 @@ p {
 }
 @media (max-width: 575px) {
   .sign__social::after {
-    left: -62%;
+    left: -55%;
   }
 }
 .sign__social i {
