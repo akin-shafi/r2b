@@ -12,7 +12,7 @@
             <div class="footer__widget-title mb-25">
               <div class="footer__logo">
                 <a href="#">
-                  <h1>R2B</h1>
+                  <h1>R2I</h1>
                 </a>
               </div>
             </div>

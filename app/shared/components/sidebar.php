@@ -10,7 +10,7 @@
     <div class="sidebar__content">
       <div class="logo mb-40">
         <a href="index.html">
-          <h1>R2B</h1>
+          <h1>R2I</h1>
         </a>
       </div>
       <div class="mobile-menu mobile-menu-2"></div>

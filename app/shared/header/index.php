@@ -1,4 +1,4 @@
-<?php isset($page_title) ? $page_title : 'R2B';
+<?php isset($page_title) ? $page_title : 'R2I';
 
 if (!empty($loggedInUser)) :
   $user = $loggedInUser;

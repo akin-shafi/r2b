@@ -4,7 +4,7 @@ require_once('./app/initialize.php');
 // require_login();
 
 $page = 'Home';
-$page_title = 'R2B | Home';
+$page_title = 'R2I | Home';
 
 include(SHARED_PATH . '/header/index.php');
 ?>

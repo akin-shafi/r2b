@@ -6,7 +6,7 @@
           <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-6">
             <div class="logo">
               <a href="<?php echo url_for('/') ?>">
-                <h1>R2B</h1>
+                <h1>R2I</h1>
               </a>
             </div>
           </div>

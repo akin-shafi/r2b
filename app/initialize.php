@@ -19,7 +19,7 @@ define("SHARED_PATH", PRIVATE_PATH . '/shared');
 // * Use same document root as webserver
 // * Can set a hardcoded value:
 
-define("WWW_ROOT", '/R2Business');
+define("WWW_ROOT", '/project-r2b/r2b/r2b');
 
 // define("WWW_ROOT", '');
 // * Can dynamically find everything in URL up to "/public"
